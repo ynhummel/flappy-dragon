@@ -9,5 +9,4 @@ Still needs A LOT of improvements, but at least it's working...
 In order to run you need the 2021 edition of Rust. Clone the repository, cd into the folder and run.
 ```
 cargo run
-  
 ```
